@@ -24,4 +24,4 @@ To perform network scanning using Zap and Manual testing for checking Vulnerabil
 (Attach screenshots in folder)
 
 ## Conclusion
-This task helped me understand network scanning techniques.
+This task helped me understand Security Assessment techniques.
