@@ -6,7 +6,7 @@ Cybersecurity Task -Security Assessment using tools
 To perform network scanning using Zap and Manual testing for checking Vulnerabilities.
 
 ## Tools Used
-- ZAP
+- ZAP for Scanning Vulnerbilities
 - Docker for running web Application
 
 ## Steps Performed
