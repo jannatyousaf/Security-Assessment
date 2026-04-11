@@ -1,24 +1,27 @@
 # Security-Assessment
-Cybersecurity Internship Task - Network Scanning/Security Assessment using tools
+Cybersecurity Task -Security Assessment using tools
 # Cybersecurity Internship Task: Network Scanning
 
 ## Objective
-To perform network scanning using Nmap and identify open ports.
+To perform network scanning using Zap and Manual testing for checking Vulnerabilities.
 
 ## Tools Used
-- Nmap
-- Kali Linux
+- ZAP for Scanning Vulnerbilities
+- Docker for running web Application
 
 ## Steps Performed
-1. Installed Nmap
+1. Installed ZAP
 2. Ran basic scan command
-3. Analyzed open ports
+3. Analyzed Vulnerbilities
 
 ## Results
-- Found open ports: 22, 80, 443
-
+- Found Vulnerbilities
+- Weak password Catching
+- SQL injection
+- XSS
+  
 ## Screenshots
 (Attach screenshots in folder)
 
 ## Conclusion
-This task helped me understand network scanning techniques.
+This task helped me understand Security Assessment techniques.
