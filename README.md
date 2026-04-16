@@ -1,6 +1,6 @@
 # Security-Assessment
 Cybersecurity Task -Security Assessment using tools
-# Cybersecurity Internship Task: Network Scanning
+# Cybersecurity Internship Task: Security Assessment 
 
 ## Objective
 To perform network scanning using Zap and Manual testing for checking Vulnerabilities.
